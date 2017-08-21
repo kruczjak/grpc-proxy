@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/mwitkow/grpc-proxy/proxy"
+  "github.com/simonhorlick/grpc-proxy/proxy"
   "google.golang.org/grpc"
   "log"
   "net"
